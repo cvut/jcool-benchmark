@@ -4,7 +4,7 @@
     <groupId>cz.cvut.felk.cig.jcool</groupId>
     <artifactId>jcool-benchmark</artifactId>
     <name>jcool-benchmark</name>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <url>https://github.com/cvut/jcool-benchmark</url>
     <description>Java COntinuous Optimization Library - benchmark</description>
     <licenses>
